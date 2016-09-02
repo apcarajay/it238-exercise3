@@ -1,0 +1,13 @@
+IT238
+Lab Exercise 3
+Due Date: Sept 23 during lab hours
+
+Single Player Black Jack Game with User Interface using Python Network Programming
+
+Program Description: Create a Black Jack Game using Python RMI or RPC.
+Client will connect to the Black jack Server and will be given 2 random cards
+At the same time, Server will have its own 2 random cards.
+Client/Player will have the option to hit or request another card.
+If the player goes for the hit, it will be compared with the server's cards to check who holds the total closest to 21.
+Cards used in a single game must not be repeated.
+You may use text to represent the cards. 
